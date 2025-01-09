@@ -1,0 +1,2 @@
+dataset: "CIFAR10_IR100_NR10_Symmetric"
+root: "./data"
